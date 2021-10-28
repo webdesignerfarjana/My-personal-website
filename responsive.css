@@ -1,0 +1,139 @@
+
+/*--(max-width:1400px)------------
+-------------------------------------------------------*/
+@media (max-width:1400px){
+   
+}
+
+
+
+/*--------------------------(max-width:1200px)------------
+-------------------------------------------------------*/
+@media (max-width:1200px){
+	
+   .service-tab  li a span i{
+	height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+.service-tab li a strong{
+    font-size: 16px;
+}
+.small-img img{
+    width: 30px;
+    height: 50px;
+	margin: 5px 0px;
+}
+.big-img img{
+    height: 230px;
+    width: 160px;
+ }
+.click{
+	color:red;
+	text-align:center;
+	margin-top:400px;.about-products{
+	position: relative;
+	margin-top:200px;
+}
+.products{
+    position: absolute;
+    top:70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.small-img{
+    float: left;
+}
+.small-img img{
+    width: 50px;
+    height: 60px;
+    display: block;
+    margin: 10px 0px;
+    cursor: pointer;
+    opacity: .5;
+}
+
+.small-img img:hover{
+    opacity: 1;
+}
+
+.big-img{
+    float: right;
+}
+.big-img img{
+    height: 290px;
+    width: 200px;
+    padding: 10px;
+	margin-bottom:50px;
+}
+.click{
+	
+}
+
+	
+
+
+    
+}
+
+/*--------------------------(max-width:992px)------------
+-------------------------------------------------------*/
+@media (max-width:992px){
+   
+    
+   .profile-card{
+	
+    width: 300px;
+	height:300px;
+    
+}
+.pic img{
+    width: 60px;
+    height: 60px;
+}
+.name{
+    
+    font-size: 18px;
+    font-weight: 600;
+    margin: 5px 0;
+}
+.desc{
+    font-size: 15px;
+}
+.sm{
+    
+    margin: 10px 0;
+}
+.sm a{
+    width: 40px;
+    font-size: 18px;
+}
+.card-header p{
+	font-size:15px;
+}
+.click{
+	margin-bottom:100px;
+}
+.services-tab-content-text{
+	margin:50px 40px;
+}
+}
+/*--------------------------(max-width:768px)------------
+-------------------------------------------------------*/
+@media (max-width:768px){
+	
+   
+}
+/*--------------------------(max-width:576px)------------
+-------------------------------------------------------*/
+@media (max-width:576px){
+	
+    
+}
+/*--------------------------(max-width:576px)------------
+-------------------------------------------------------*/
+@media (max-width:576px){
+	
+    
+}
